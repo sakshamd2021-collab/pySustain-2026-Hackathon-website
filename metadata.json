@@ -1,0 +1,6 @@
+{
+  "name": "PySustain AquaGuard - Smart Water Parameter & Safety Monitoring Engine",
+  "description": "Real-time single dashboard for evaluating and visualizing pH, turbidity, and chemical contamination (TDS) with safety classification and treatment recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
